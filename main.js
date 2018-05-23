@@ -185,7 +185,7 @@ fetch('folkets_en_sv_public.xdxf')
                 ]),
                 t('div#footer', [
                     t('a#cclicense|rel=license|href=https://creativecommons.org/licenses/by-sa/4.0/|title=Creative Commons License BY-SA 4.0', ''),
-                    t('span', 'Quick Swedish Wordbook (2018) is based on <a xmlns:dct="http://purl.org/dc/terms/" href="https://spraakbanken.gu.se/resource/lexin" rel="dct:source">LEXIN Second Edition</a>')
+                    t('span', 'Quick English - Swedish Dictionary (2018) is based on <a xmlns:dct="http://purl.org/dc/terms/" href="http://folkets-lexikon.csc.kth.se/folkets/om.en.html" rel="dct:source">The People\'s Dictionary</a>')
                 ])
             ])
         );
