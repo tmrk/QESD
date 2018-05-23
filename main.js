@@ -225,6 +225,3 @@ fetch('folkets_en_sv_public.xdxf')
         document.getElementById('word').focus();
 
     });
-
-document.addEventListener('DOMContentLoaded', function(event) {
-});
